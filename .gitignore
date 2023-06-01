@@ -1,9 +1,3 @@
 .vscode/
 obj/
 bin/
-
-myshlyaev-cli-windows/
-!myshlyaev-cli-windows/AQA-Myshlyaev-Csharp.exe
-
-myshlyaev-cli-linux/
-!myshlyaev-cli-linux/AQA-Myshlyaev-Csharp
